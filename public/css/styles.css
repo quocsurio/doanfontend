@@ -1,0 +1,164 @@
+.nav-link {
+  background: #82b440;
+  border-radius: 3px;
+  width: 100px;
+  height: 40 px;
+  text-align: center;
+  color: #fff;
+  box-sizing: border-box;
+}
+.nav-item a:hover {
+  background: #6f9a37;
+  color: white;
+}
+.btn:hover {
+  background-color: #2ecc71;
+  color: white;
+}
+
+.btn {
+  background-color: #eee;
+  color: white;
+  border-radius: 30px;
+  text-align: center;
+  width: 155px;
+  height: 37px;
+  float: left;
+  border: none;
+
+}
+.btn-2{
+  background-color: #eee;
+  border-radius: 30px;
+  text-align: center;
+  width: 155px;
+  height: 37px;
+  float: left;
+  border: none;
+  color: #000;
+}
+.btn-2:hover {
+  background-color: #2ecc71;
+  color: white;
+}
+
+h4 {
+  font-weight: lighter;
+  opacity: 0.9;
+}
+
+h6 {
+  font-weight: lighter;
+  opacity: 0.8;
+}
+
+.white-bg {
+  background-color: #fff;
+}
+
+.content {
+  text-align: center;
+  padding-top: 50px;
+}
+
+.content-1 {
+  text-align: center;
+  font-weight: lighter;
+  opacity: 0.8;
+}
+
+.small-img {
+  width: 360px;
+  height: 226px;
+  margin-bottom: 15px;
+}
+.content-2 {
+  text-align: center;
+  font-weight: lighter;
+  opacity: 0.8;
+  text-decoration: underline;
+  text-underline-offset: 10px;
+  margin-bottom: 100px;
+  margin-top: 100px;
+}
+
+.content-3 {
+  text-align: center;
+  font-weight: lighter;
+  opacity: 0.8;
+  text-underline-offset: 10px;
+}
+
+.p1 {
+  text-align: center;
+}
+
+.p-2 {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.col-4 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.btn-info{
+  background-color: #2ecc71;
+  color: #fff;
+  border-radius: 50px;
+  width: 350px;
+  height: 60px;
+  border: none;
+  margin-bottom: 20px;
+  margin-top: 80px;
+}
+.a-2{
+  text-decoration: none;
+  color: #000;
+}
+
+.btn-info:hover {
+  background-color: #65e86e;
+  color: white;
+}
+img.small-img {
+  opacity: 0;
+  transition: opacity 1s;
+}
+.container-4{
+  display: flex;
+  justify-content: space-between;
+}
+.left {
+  float: left;
+}
+footer{
+  margin-top: 50px;
+  position: absolute;
+  top: auto;
+  background-color: #fff;
+  width: 100%;
+  height: 90px;
+}
+.Image-2{
+  float: right;
+  margin-top: 35px;
+  width: 25px;
+  height: auto;
+}
+.Image-1{
+  width: 25px;
+  height: auto;
+}
+.d-1{
+  float: left;
+  margin-top: 35px;
+}
+
+.container {
+  padding-left: 75px;
+  padding-right: 75px;
+}
+
+
